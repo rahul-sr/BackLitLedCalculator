@@ -168,8 +168,8 @@ button:hover {
 .key::before {
   position: absolute;
   content: "";
-  width: 50vw;
-  height: 50vh;
+  width: 100vw;
+  height: 100vh;
   background: conic-gradient(
     var(--red),
     var(--green),
