@@ -16,8 +16,6 @@ toggleTheme.addEventListener(
   }
 );
 
-// Now lets implement the calculator functionality
-
 const display =
   document.querySelector(".display");
 const keyContainer = document.querySelector(
